@@ -19,7 +19,7 @@ Repo can be cloned from my GitHub and dependances can be found in the package.js
 This is what it will look like on your device. 
 
 [Production Link](https://guarded-cliffs-74060.herokuapp.com/)
-![E-Commerce Backend](images/NoteTaker.png)
+![E-Commerce Backend](images/image1.png)
 
 ## Contributing
 Luke Johnsen
