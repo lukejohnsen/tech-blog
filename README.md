@@ -1,7 +1,7 @@
 # Tech Blog Backend
 
 ## Description
-This E-Commerce back end was made in order to show my newly-learned skills with the Model-View-Controller design pattern.
+This Tech Blog was made in order to show my newly-learned skills with the Model-View-Controller design pattern.
 
 ## Table of Contents (Optional)
 * [Installation](#installation)
